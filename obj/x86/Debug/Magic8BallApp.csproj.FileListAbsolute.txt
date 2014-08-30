@@ -1,0 +1,4 @@
+C:\Users\Jack Sullivan\Documents\Projects\Magic8BallApp\Magic8BallApp\bin\Debug\Magic8BallApp.exe
+C:\Users\Jack Sullivan\Documents\Projects\Magic8BallApp\Magic8BallApp\bin\Debug\Magic8BallApp.pdb
+C:\Users\Jack Sullivan\Documents\Projects\Magic8BallApp\Magic8BallApp\obj\x86\Debug\Magic8BallApp.exe
+C:\Users\Jack Sullivan\Documents\Projects\Magic8BallApp\Magic8BallApp\obj\x86\Debug\Magic8BallApp.pdb

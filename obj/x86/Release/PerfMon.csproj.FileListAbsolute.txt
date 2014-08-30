@@ -1,0 +1,6 @@
+C:\Users\Jack Sullivan\Documents\Projects\Magic8BallApp\Magic8BallApp\bin\Release\Magic8BallApp.exe
+C:\Users\Jack Sullivan\Documents\Projects\Magic8BallApp\Magic8BallApp\bin\Release\Magic8BallApp.pdb
+C:\Users\Jack Sullivan\Documents\Projects\Magic8BallApp\Magic8BallApp\bin\Release\System.dll
+C:\Users\Jack Sullivan\Documents\Projects\Magic8BallApp\Magic8BallApp\obj\x86\Release\Magic8BallApp.exe
+C:\Users\Jack Sullivan\Documents\Projects\Magic8BallApp\Magic8BallApp\obj\x86\Release\Magic8BallApp.pdb
+C:\Users\Jack Sullivan\Documents\Projects\Magic8BallApp\Magic8BallApp\obj\x86\Release\PerfMon.csprojResolveAssemblyReference.cache
